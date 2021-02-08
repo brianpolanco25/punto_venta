@@ -80,7 +80,6 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <script src="/adminlte/plugins/chart.js/Chart.min.js"></script>
   <!-- jQuery -->
   <script src="/adminlte/plugins/jquery/jquery.min.js"></script>
-  <script src="/adminlte/dist/js/pages/dashboard3.js"></script>
   @livewireScripts
   
   </body>
